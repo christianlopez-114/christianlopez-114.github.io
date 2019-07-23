@@ -1,0 +1,18 @@
+#magic {
+	border-style: solid; 
+	border-radius: 100px; 
+	background-color: darkblue;
+}
+
+title {
+	letter-spacing: 2px;
+}
+
+h1 {
+	letter-spacing: 3px;
+	text-shadow: 2px 2px #ff0000;
+}
+
+.menu {
+	font-size: 18px;
+}
